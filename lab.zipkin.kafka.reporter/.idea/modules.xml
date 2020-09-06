@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello-client/hello-client.iml" filepath="$PROJECT_DIR$/hello-client/hello-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-consumer/hello-consumer.iml" filepath="$PROJECT_DIR$/hello-consumer/hello-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-zipkin-kafka-reporter.iml" filepath="$PROJECT_DIR$/lab-zipkin-kafka-reporter.iml" />
+    </modules>
+  </component>
+</project>
